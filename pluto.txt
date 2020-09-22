@@ -2,4 +2,5 @@ Hi, Fraser!
 Can you see this?
 
 A: We can talk through this, so I won't annoy you with that many emails again!
-
+F: Good idea. Maybe this will lead to a conflict, or I might have pulled it after you made your edit
+ ...
