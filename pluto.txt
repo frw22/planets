@@ -8,3 +8,5 @@ F: Good idea. Maybe this will lead to a conflict, or I might have pulled it afte
 A: What you think? Is this properly working?
 
 A: Also, I don't know if this has been sent.
+
+F: It has! I think this is working pretty well
